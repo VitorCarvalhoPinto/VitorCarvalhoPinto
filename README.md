@@ -38,6 +38,6 @@
 
 ###
 
-<p align="left">📧 Email | 💼 LinkedIn | 🐙 GitHub</p>
+[📧 Email](mailto:vitorcarvalhopinto03@gmail.com) | [💼 LinkedIn](https://www.linkedin.com/in/vitor-carvalho-pinto/) | [🐙 GitHub](https://github.com/VitorCarvalhoPinto)
 
 ###
